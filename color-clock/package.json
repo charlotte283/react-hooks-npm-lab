@@ -1,0 +1,23 @@
+{
+  "name": "color-clock",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "Echo'Hello World!'",
+    "start":"serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "react-hooks-npm-lab.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "charl",
+  "license": "ISC",
+  "dependencies": {
+    "date-fns": "^2.29.3",
+    "serve": "^14.1.2"
+  }
+}
